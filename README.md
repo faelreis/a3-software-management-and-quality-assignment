@@ -44,4 +44,5 @@ Jest
 
 ## 🧑‍🎓 Alunos
 
-Rafael Reis, Lukas Bitencourt, Douglas Ferina
+Rafael Reis, Lukas Bitencourt, Douglas Ferina, 
+Caleb Porciuncula
